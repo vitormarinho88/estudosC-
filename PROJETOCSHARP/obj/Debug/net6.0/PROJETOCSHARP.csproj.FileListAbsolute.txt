@@ -1,0 +1,5 @@
+C:\Users\CLIENTE\source\repos\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.csproj.AssemblyReference.cache
+C:\Users\CLIENTE\source\repos\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENTE\source\repos\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\source\repos\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.AssemblyInfo.cs
+C:\Users\CLIENTE\source\repos\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.csproj.CoreCompileInputs.cache
