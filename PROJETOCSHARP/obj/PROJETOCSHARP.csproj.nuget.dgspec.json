@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CLIENTE\\source\\repos\\PROJETOCSHARP\\PROJETOCSHARP.csproj": {}
+    "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\PROJETOCSHARP\\PROJETOCSHARP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CLIENTE\\source\\repos\\PROJETOCSHARP\\PROJETOCSHARP.csproj": {
+    "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\PROJETOCSHARP\\PROJETOCSHARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CLIENTE\\source\\repos\\PROJETOCSHARP\\PROJETOCSHARP.csproj",
+        "projectUniqueName": "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\PROJETOCSHARP\\PROJETOCSHARP.csproj",
         "projectName": "PROJETOCSHARP",
-        "projectPath": "C:\\Users\\CLIENTE\\source\\repos\\PROJETOCSHARP\\PROJETOCSHARP.csproj",
+        "projectPath": "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\PROJETOCSHARP\\PROJETOCSHARP.csproj",
         "packagesPath": "C:\\Users\\CLIENTE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CLIENTE\\source\\repos\\PROJETOCSHARP\\obj\\",
+        "outputPath": "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\PROJETOCSHARP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CLIENTE\\AppData\\Roaming\\NuGet\\NuGet.Config",
