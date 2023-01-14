@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace CursoCSharp.Fundamentos
+
+namespace PROJETOCSHARP
 {
 	class Interpolçao
 	{
@@ -11,16 +14,18 @@ namespace CursoCSharp.Fundamentos
 			double preço = 5800.00;
 
 			Console.WriteLine("O" + nome + " da marca " + marca + "custa" + preço + ".");
-			Console.Writeline("O {0} da marca {1} custa {2}.", nome, marca, preço);
+			Console.WriteLine("O {0} da marca {1} custa {2}.", nome, marca, preço);
 			Console.WriteLine($"A marca {marca} é legal!");
-			Console.WriteLine($"1 + 1 {1 + 1}! );
+			Console.WriteLine($"1 + 1 {1 + 1}!");
 
 
 
 
 
 
-		
+
+
+
 		}
 
 

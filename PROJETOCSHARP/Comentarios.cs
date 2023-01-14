@@ -1,13 +1,29 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
-class Comentarios
+namespace PROJETOCSHARP
 {
-    public static void Executar()
+    /// <Sumary> 
+    /// 
+    /// </Sumary>
+    class Comentarios
     {
-        // cuidado com os comentarios desnecessarios 
-        Console.WriteLine("codigo claro é sempre melhor!");
+        public static void Executar()
+        {// cuidado com os comentarios desnecessarios 
+            Console.WriteLine("codigo claro é sempre meljor! ");
 
-     
+            //*
+            // esse e um comentario de multiplas linhas 
 
+            Console.WriteLine(" o c# tem XML Comments");
+
+
+
+
+
+
+        }
     }
+
 }

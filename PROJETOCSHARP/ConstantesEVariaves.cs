@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace CursoCSharp.Fundamentos
 {
@@ -26,8 +28,8 @@ namespace CursoCSharp.Fundamentos
             byte idade = 45;
             Console.WriteLine("idade" + idade);
 
-            sbyte saldoDeGols = sbyte.MinValue;
-            Console.WriteLine("saldo de gols" + saldoDeGols);
+            sbyte SaldoDeGols = sbyte.MinValue;
+            Console.WriteLine("Saldo de gols" + SaldoDeGols);
 
             short salario = short.MaxValue;
             Console.WriteLine("salario" + salario);
@@ -35,13 +37,13 @@ namespace CursoCSharp.Fundamentos
             int menorValorInt = int.MinValue; // Mais usado dos inteiros!
             Console.WriteLine("Menor int " + menorValorInt);
 
-            uint populaçãoBrasileira = 207600.00;
+            uint populaçãoBrasileira = 207_600_000;
             Console.WriteLine("população brasileira" + populaçãoBrasileira);
 
-            long MenorValorLong = long.MinValue;
-            Console.WriteLine("Menor long" + MenorValorlong);
+            long menorValorLong = long.MinValue;
+            Console.WriteLine("Menor long" + menorValorLong);
 
-            ulong populaçaoMundial = 7.600.000.000;
+            ulong populaçaoMundial = 7_600_000_000;
             Console.WriteLine("Populaçao mundial" + populaçaoMundial);
 
             float precoComputador = 1299.99f;
@@ -53,10 +55,10 @@ namespace CursoCSharp.Fundamentos
             decimal distanciaEntreEstrelas = decimal.MaxValue;
             Console.WriteLine("distancia entre estrelas" + distanciaEntreEstrelas);
 
-            char letra = 'b'
+            char letra = 'b';
             Console.WriteLine("letra" + letra);
 
-            string texto = " É nois que avoa!"
+            string texto = " É nois que avoa!";
             Console.WriteLine(texto);
 
 

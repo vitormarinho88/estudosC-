@@ -6,9 +6,9 @@ namespace CursoCharp.Fundamentos
     {
         static void Executar ()
         { 
-            Console.Write("Primeiro");
+            Console.WriteLine("Primeiro");
             Console.WriteLine("Programa");
-            Console.WritelIne("Terminou!");
+            Console.WriteLine("Terminou!");
         }
     }
 }  

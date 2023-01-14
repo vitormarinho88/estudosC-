@@ -1,10 +1,17 @@
-﻿namespace PROJETOCSHARP
+﻿using System;
+   
+namespace PROJETOCSHARP
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World! itachi");
+            Console.WriteLine("Hello world");
+
         }
+
+
     }
+   
 }
+
