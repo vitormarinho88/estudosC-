@@ -3,7 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROJETOCSHARP", "PROJETOCSHARP.csproj", "{6787BA32-7933-4AD2-A1BB-D1196A93115E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PROJETOCSHARP", "PROJETOCSHARP.csproj", "{6787BA32-7933-4AD2-A1BB-D1196A93115E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EstruturaDeControle", "EstruturaDeControle", "{861EAA6D-C688-49DE-9EE4-8ECBF4858655}"
+	ProjectSection(SolutionItems) = preProject
+		CONTINUE.cs = CONTINUE.cs
+		EstruturaDoWhile.cs = EstruturaDoWhile.cs
+		EstruturaFor.cs = EstruturaFor.cs
+		EstruturaForEach.cs = EstruturaForEach.cs
+		EstruturaIF.cs = EstruturaIF.cs
+		EstruturaIfElse.cs = EstruturaIfElse.cs
+		EstruturaIfElseIf.cs = EstruturaIfElseIf.cs
+		EstruturaSwitch.cs = EstruturaSwitch.cs
+		EstruturaWhile.cs = EstruturaWhile.cs
+		UsoBreak.cs = UsoBreak.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
