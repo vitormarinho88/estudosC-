@@ -19,6 +19,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EstruturaDeControle", "Estr
 		UsoBreak.cs = UsoBreak.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassesEMetodos", "ClassesEMetodos", "{41A17440-F1A2-47BE-AF9F-7FB55F50EDF3}"
+	ProjectSection(SolutionItems) = preProject
+		AtributosEstaticos .cs = AtributosEstaticos .cs
+		Construtores.cs = Construtores.cs
+		DesafioAtributo.cs = DesafioAtributo.cs
+		Membro.cs = Membro.cs
+		MetodoaEstatico.cs = MetodoaEstatico.cs
+		MetodosComRetorno.cs = MetodosComRetorno.cs
+		Params.cs = Params.cs
+		Pessoa.cs = Pessoa.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -9,9 +9,11 @@ namespace PROJETOCSHARP
         {
             //Console.WriteLine("Hello world");
             //UsandoContinue.Executar();
-            
+
             var central = new CentralDeExercicios(new Dictionary<string, Action>
-            {
+            {      
+                //estrutura de controle 
+
                 { "1", EstruturaForEach.Executar},
                 { "2", EstruturaDoWhile.Executar},
                 { "3", EstruturaFor.Executar},
@@ -22,13 +24,40 @@ namespace PROJETOCSHARP
                 { "8", EstruturaWhile.Executar},
                 { "9", UsoBreak.Executar },
                 {"10", UsandoContinue.Executar},
+
+                         
+                       //fundamentos 
+                       
                 {"11", VariavesEConstantes.Executar},
+                {"12", Comentarios.Executar },
+                {"13", Conversoes.Executar },
+                {"14", FormantandoNumero.Executar },
+                {"15", Interpolçao.Executar },
+                {"16", LendoDados.Executar },
+                {"17", notaçaoponto.Executar},
+                {"18", OperadoresAritimeticos.Executar },
+                {"19", OperadoresAtribuiçao.Executar },
+                {"20", OperadoresLogicos.Executar },
+                {"21", OperadoresUnarios.Executar },
+                {"22", OperadorTernario.Executar },
+
+
+                //classes e metodos 
+
+                {"23", Membro.Executar },
+                {"24", Construtores.Executar },
+                {"25", MetodosComRetorno.Executar },
+                {"26", MetodosEstaticos.Executar },
+                {"27", AtributosEstaticos.Executar},
+                {"28", DesafioAtributo.Executar },
+                {"29", Params.Executar },         
             
-            });
+            
+            }) ; ;
 
 
 
-            central.Executar("11");
+            central.Executar("29");
                 
                 
                 
