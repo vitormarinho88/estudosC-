@@ -50,14 +50,21 @@ namespace PROJETOCSHARP
                 {"26", MetodosEstaticos.Executar },
                 {"27", AtributosEstaticos.Executar},
                 {"28", DesafioAtributo.Executar },
-                {"29", Params.Executar },         
-            
-            
-            }) ; ;
+                {"29", Params.Executar },
+                {"30", ParametrosNomeados.Executar },
+                {"31", GetSet.Executar},
 
 
 
-            central.Executar("29");
+
+
+
+            }); ; ; ;
+
+
+
+            central.Executar("31");
+                
                 
                 
                 
