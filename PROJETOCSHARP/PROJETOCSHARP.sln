@@ -34,6 +34,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassesEMetodos", "ClassesE
 		Pessoa.cs = Pessoa.cs
 		Props.cs = Props.cs
 		ReadOnly.cs = ReadOnly.cs
+		RefOut.cs = RefOut.cs
 		Struct.cs = Struct.cs
 		StrutcVsClasse.cs = StrutcVsClasse.cs
 		ValorVsReferencia.cs = ValorVsReferencia.cs
