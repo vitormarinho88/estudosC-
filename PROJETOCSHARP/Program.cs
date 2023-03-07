@@ -53,17 +53,23 @@ namespace PROJETOCSHARP
                 {"29", Params.Executar },
                 {"30", ParametrosNomeados.Executar },
                 {"31", GetSet.Executar},
+                {"32", Props.Executar },
+                {"33", ReadOnly.Executar },
+                {"34", ExEnum.Executar },
+                {"35", ExStrutc.Executar },
+                {"36", StructVsClasse.Executar },
+                {"37", ValorVsReferencia.Executar },
+            
+            
+            
+            
+            
+            
+            }) ; 
 
 
 
-
-
-
-            }); ; ; ;
-
-
-
-            central.Executar("31");
+            central.Executar("37");
                 
                 
                 

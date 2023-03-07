@@ -24,6 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassesEMetodos", "ClassesE
 		AtributosEstaticos .cs = AtributosEstaticos .cs
 		Construtores.cs = Construtores.cs
 		DesafioAtributo.cs = DesafioAtributo.cs
+		ExEnum.cs = ExEnum.cs
 		GetSet.cs = GetSet.cs
 		Membro.cs = Membro.cs
 		MetodoaEstatico.cs = MetodoaEstatico.cs
@@ -31,6 +32,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassesEMetodos", "ClassesE
 		ParamentrosNomeados.cs = ParamentrosNomeados.cs
 		Params.cs = Params.cs
 		Pessoa.cs = Pessoa.cs
+		Props.cs = Props.cs
+		ReadOnly.cs = ReadOnly.cs
+		Struct.cs = Struct.cs
+		StrutcVsClasse.cs = StrutcVsClasse.cs
+		ValorVsReferencia.cs = ValorVsReferencia.cs
 	EndProjectSection
 EndProject
 Global
