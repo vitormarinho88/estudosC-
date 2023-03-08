@@ -30,6 +30,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassesEMetodos", "ClassesE
 		MetodoaEstatico.cs = MetodoaEstatico.cs
 		MetodosComRetorno.cs = MetodosComRetorno.cs
 		ParamentrosNomeados.cs = ParamentrosNomeados.cs
+		ParametroPadrao.cs = ParametroPadrao.cs
 		Params.cs = Params.cs
 		Pessoa.cs = Pessoa.cs
 		Props.cs = Props.cs

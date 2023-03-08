@@ -60,7 +60,7 @@ namespace PROJETOCSHARP
                 {"36", StructVsClasse.Executar },
                 {"37", ValorVsReferencia.Executar },
                 {"38", RefOut.Executar },
-            
+                {"39", ParametroPadrao.Executar },
             
             
             
@@ -69,7 +69,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("38");
+            central.Executar("39");
                 
                 
                 
