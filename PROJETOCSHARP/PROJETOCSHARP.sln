@@ -41,6 +41,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClassesEMetodos", "ClassesE
 		ValorVsReferencia.cs = ValorVsReferencia.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coleções", "Coleções", "{A2B33D83-C571-4CF7-9ABA-A8A18804CC8B}"
+	ProjectSection(SolutionItems) = preProject
+		Array.cs = Array.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

@@ -61,15 +61,15 @@ namespace PROJETOCSHARP
                 {"37", ValorVsReferencia.Executar },
                 {"38", RefOut.Executar },
                 {"39", ParametroPadrao.Executar },
+                {"40", Array.Executar },
             
             
             
-            
-            }) ; 
+            }) ;
 
 
 
-            central.Executar("39");
+            central.Executar("40");
                 
                 
                 
