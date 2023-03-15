@@ -62,14 +62,14 @@ namespace PROJETOCSHARP
                 {"38", RefOut.Executar },
                 {"39", ParametroPadrao.Executar },
                 {"40", Array.Executar },
-                {"41", ColecsList.Executar }
-
+                {"41", ColecsList.Executar },
+                {"42", ColecArrayList.Executar },
 
             });
 
 
 
-            central.Executar("41");
+            central.Executar("42");
                 
                 
                 
