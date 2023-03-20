@@ -45,7 +45,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Coleções", "Coleções", 
 	ProjectSection(SolutionItems) = preProject
 		Array.cs = Array.cs
 		ColecArrayList.cs = ColecArrayList.cs
-		ColecList.cs = ColecList.cs
+		ColecList .cs = ColecList .cs
+		ColecQueue.cs = ColecQueue.cs
+		ColecSet.cs = ColecSet.cs
 	EndProjectSection
 EndProject
 Global
