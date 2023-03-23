@@ -16,6 +16,27 @@ public class Produto
     }
 
 
+    public override bool Equals (object obj)
+    {
+        Produto outroProduto = (Produto)obj;
+        bool mesmoNome = Nome == outroProduto.Nome;
+        bool mesmoPreço = Preço == outroProduto.Preço;
+        return mesmoNome && mesmoPreço;
+    }
+
+
+    public override int GetHashCode()
+    {
+        return base.GetHashCode();
+    }
+
+
+
+
+
+
+
+
 }
 
 class ColecsList {

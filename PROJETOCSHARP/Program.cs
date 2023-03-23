@@ -66,14 +66,18 @@ namespace PROJETOCSHARP
                 {"42", ColecArrayList.Executar },
                 {"43", ColecSet.Executar},
                 {"44", ColecQueue.Executar },
-
+                {"45", igualdade.Executar },
+                {"46", ColeçoesStack.Executar },
+            
+            
+            
             });
              
            
 
 
 
-            central.Executar("44");
+            central.Executar("46");
                 
                 
                 
