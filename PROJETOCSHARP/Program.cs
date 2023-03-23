@@ -68,7 +68,7 @@ namespace PROJETOCSHARP
                 {"44", ColecQueue.Executar },
                 {"45", igualdade.Executar },
                 {"46", ColeçoesStack.Executar },
-            
+                {"47", ColecsDictionary.Executar },
             
             
             });
@@ -77,7 +77,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("46");
+            central.Executar("47");
                 
                 
                 
