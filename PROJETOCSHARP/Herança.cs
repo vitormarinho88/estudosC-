@@ -63,29 +63,34 @@ namespace PROJETOCSHARP
         }
     }
 
-    public class Ferrari : Carro   {   
-        public Ferrari() : base(350)  {   
-        
-        
+    public class Ferrari : Carro
+    {
+        public Ferrari() : base(350)
+        {
+
+
         }
-        public override int Acelerar()   {
+        public override int Acelerar()
+        {
 
             return AlterarVelocidade(15);
-        
+
         }
-        
-        public new int Frear()   {
+
+        public new int Frear()
+        {
             return AlterarVelocidade(-15);
-        
+
         }
-    
+
     }
 
 
     class Herança
     {
 
-        public static void Executar()   {
+        public static void Executar()
+        {
             Console.WriteLine("uno...");
             Uno carro1 = new Uno();
             Console.WriteLine(carro1.Acelerar());
@@ -128,8 +133,6 @@ namespace PROJETOCSHARP
     }
 
 
-     
-  
 
 
 
@@ -144,4 +147,4 @@ namespace PROJETOCSHARP
 
 
 
-}   
+} 

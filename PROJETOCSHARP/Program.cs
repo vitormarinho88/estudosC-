@@ -1,6 +1,8 @@
 ﻿using CursoCSharp.Fundamentos;
 using System;
-   
+
+
+
 namespace PROJETOCSHARP
 {
     class Program
@@ -61,6 +63,10 @@ namespace PROJETOCSHARP
                 {"37", ValorVsReferencia.Executar },
                 {"38", RefOut.Executar },
                 {"39", ParametroPadrao.Executar },
+                
+                
+                //Coleçoes
+                
                 {"40", Array.Executar },
                 {"41", ColecsList.Executar },
                 {"42", ColecArrayList.Executar },
@@ -69,7 +75,16 @@ namespace PROJETOCSHARP
                 {"45", igualdade.Executar },
                 {"46", ColeçoesStack.Executar },
                 {"47", ColecsDictionary.Executar },
+                
+                
+                //Orientação ao Objeto...
+                
+                
                 {"48", Herança.Executar },
+                {"49", ConstrutorThis.Executar },
+            
+            
+            
             
             });
              
