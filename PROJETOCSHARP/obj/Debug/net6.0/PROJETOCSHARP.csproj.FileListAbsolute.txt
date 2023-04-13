@@ -18,3 +18,6 @@ C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\obj\Debug\net6.0\refint\PR
 C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.pdb
 C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.genruntimeconfig.cache
 C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\obj\Debug\net6.0\ref\PROJETOCSHARP.dll
+C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\bin\Debug\net6.0\Encapsulamento.dll
+C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\bin\Debug\net6.0\Encapsulamento.pdb
+C:\Users\CLIENTE\source\repos\estudosC-\PROJETOCSHARP\obj\Debug\net6.0\PROJETOCSHARP.csproj.CopyComplete

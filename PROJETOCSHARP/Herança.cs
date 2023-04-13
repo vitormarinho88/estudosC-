@@ -11,7 +11,9 @@ namespace PROJETOCSHARP
 
         public Carro(int velocidadeMaxima)
         {
-            velocidadeMaxima = velocidadeMaxima;
+            VelocidadeMaxima = velocidadeMaxima;
+            
+            
 
         }
 

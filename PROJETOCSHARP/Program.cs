@@ -82,7 +82,7 @@ namespace PROJETOCSHARP
                 
                 {"48", Herança.Executar },
                 {"49", ConstrutorThis.Executar },
-            
+                {"50", Encapsulamento.Executar },
             
             
             
@@ -92,7 +92,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("48");
+            central.Executar("50");
                 
                 
                 
