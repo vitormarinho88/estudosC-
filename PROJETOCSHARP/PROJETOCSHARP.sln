@@ -59,6 +59,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O.O", "O.O", "{A9C27340-641
 		ConstrutorThis.cs = ConstrutorThis.cs
 		Encapsulamento.cs = Encapsulamento.cs
 		Herança.cs = Herança.cs
+		Interface.cs = Interface.cs
 		Polimorfismo.cs = Polimorfismo.cs
 	EndProjectSection
 EndProject
