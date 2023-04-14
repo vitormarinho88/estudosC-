@@ -84,7 +84,7 @@ namespace PROJETOCSHARP
                 {"49", ConstrutorThis.Executar },
                 {"50", Encapsulamento.Executar },
                 {"51", Polimorfismo.Executar },
-            
+                {"52", Abstract.Executar },
             
             });
              
@@ -92,7 +92,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("51");
+            central.Executar("52");
                 
                 
                 
