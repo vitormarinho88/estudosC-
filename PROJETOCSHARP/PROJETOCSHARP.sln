@@ -61,6 +61,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "O.O", "O.O", "{A9C27340-641
 		Herança.cs = Herança.cs
 		Interface.cs = Interface.cs
 		Polimorfismo.cs = Polimorfismo.cs
+		Sealed.cs = Sealed.cs
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "..\Encapsulamento\Encapsulamento.csproj", "{A1582AF4-0FB1-466F-8406-869CDA0001C7}"

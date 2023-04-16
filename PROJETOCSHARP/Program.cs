@@ -86,15 +86,16 @@ namespace PROJETOCSHARP
                 {"51", Polimorfismo.Executar },
                 {"52", Abstract.Executar },
                 {"53", Interface.Executar },
-           
+                {"54", Sealed.Executar }, 
             
+           
             });
 
 
 
 
 
-            central.Executar("53");
+            central.Executar("54");
                 
                 
                 
