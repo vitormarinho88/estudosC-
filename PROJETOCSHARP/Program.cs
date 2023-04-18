@@ -86,16 +86,24 @@ namespace PROJETOCSHARP
                 {"51", Polimorfismo.Executar },
                 {"52", Abstract.Executar },
                 {"53", Interface.Executar },
-                {"54", Sealed.Executar }, 
-            
-           
-            });
+                {"54", Sealed.Executar },
+
+
+
+                //Metodo e Funçoes
+
+                {"55", Lambda.Executar },
+
+
+
+
+            }); ;
 
 
 
 
 
-            central.Executar("54");
+            central.Executar("55");
                 
                 
                 
