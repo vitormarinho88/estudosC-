@@ -94,7 +94,7 @@ namespace PROJETOCSHARP
 
                 {"55", Lambda.Executar },
                 {"56", LambdaDelegate.Executar },
-
+                {"57", UsandoDelegate.Executar }, 
 
 
             }); ;
@@ -103,7 +103,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("56");
+            central.Executar("57");
                 
                 
                 

@@ -70,6 +70,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MetodoEFunçoes", "MetodoEF
 	ProjectSection(SolutionItems) = preProject
 		Lambda.cs = Lambda.cs
 		LambdaDelegate.cs = LambdaDelegate.cs
+		UsandoDelegate.cs = UsandoDelegate.cs
 	EndProjectSection
 EndProject
 Global
