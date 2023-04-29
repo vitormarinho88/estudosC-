@@ -1,5 +1,8 @@
-﻿using CursoCSharp.Fundamentos;
+﻿using CursoCharp.Fundamentos;
 using System;
+
+
+
 
 
 
@@ -30,7 +33,7 @@ namespace PROJETOCSHARP
                          
                        //fundamentos 
                        
-                {"11", VariavesEConstantes.Executar},
+                
                 {"12", Comentarios.Executar },
                 {"13", Conversoes.Executar },
                 {"14", FormantandoNumero.Executar },
@@ -96,19 +99,24 @@ namespace PROJETOCSHARP
                 {"56", LambdaDelegate.Executar },
                 {"57", UsandoDelegate.Executar },
                 {"58", DelegateComoParametros.Executar },
-                {"59", MetodosDeExtensao.Executar }, 
+                {"59", MetodosDeExtensao.Executar },
 
 
 
+                // Exceções 
 
-
+                {"60", PrimeiraExceçao.Executar },
+            
+            
+            
+            
             }); ; ;
 
 
 
 
 
-            central.Executar("59");
+            central.Executar("60");
                 
                 
                 

@@ -69,10 +69,16 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MetodoEFunçoes", "MetodoEFunçoes", "{CB873CEF-EBD2-444B-BC3B-4B7A14EF993F}"
 	ProjectSection(SolutionItems) = preProject
 		DelegateComoParametros.cs = DelegateComoParametros.cs
+		DelegateFunçoesAnonimas.cs = DelegateFunçoesAnonimas.cs
 		Lambda.cs = Lambda.cs
 		LambdaDelegate.cs = LambdaDelegate.cs
 		MetodosDeExtesao.cs = MetodosDeExtesao.cs
 		UsandoDelegate.cs = UsandoDelegate.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceções", "Exceções", "{4C116106-5EB1-4238-8059-7A603C3C8588}"
+	ProjectSection(SolutionItems) = preProject
+		ExceçoesETratamentoDoErro.cs = ExceçoesETratamentoDoErro.cs
 	EndProjectSection
 EndProject
 Global
