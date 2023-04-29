@@ -106,17 +106,17 @@ namespace PROJETOCSHARP
                 // Exceções 
 
                 {"60", PrimeiraExceçao.Executar },
-            
-            
-            
-            
-            }); ; ;
+                {"61", ExceçoesPersonalizadas.Executar },
+
+
+
+            }); ; ; ;
 
 
 
 
 
-            central.Executar("60");
+            central.Executar("61");
                 
                 
                 
