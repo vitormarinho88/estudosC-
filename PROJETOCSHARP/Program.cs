@@ -94,16 +94,21 @@ namespace PROJETOCSHARP
 
                 {"55", Lambda.Executar },
                 {"56", LambdaDelegate.Executar },
-                {"57", UsandoDelegate.Executar }, 
-
-
-            }); ;
-
+                {"57", UsandoDelegate.Executar },
+                {"58", DelegateComoParametros.Executar },
 
 
 
 
-            central.Executar("57");
+
+
+            }); ; ;
+
+
+
+
+
+            central.Executar("58");
                 
                 
                 

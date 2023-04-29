@@ -68,6 +68,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "..\Encaps
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MetodoEFunçoes", "MetodoEFunçoes", "{CB873CEF-EBD2-444B-BC3B-4B7A14EF993F}"
 	ProjectSection(SolutionItems) = preProject
+		DelegateComoParametros.cs = DelegateComoParametros.cs
 		Lambda.cs = Lambda.cs
 		LambdaDelegate.cs = LambdaDelegate.cs
 		UsandoDelegate.cs = UsandoDelegate.cs
