@@ -81,6 +81,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceções", "Exceções", 
 		ExceçoesPersonalizada.cs = ExceçoesPersonalizada.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{09FE63B8-BD98-4152-A948-29B16148B081}"
+	ProjectSection(SolutionItems) = preProject
+		PrimeiroArquivo.cs = PrimeiroArquivo.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

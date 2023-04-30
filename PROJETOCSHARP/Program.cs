@@ -108,6 +108,14 @@ namespace PROJETOCSHARP
                 {"60", PrimeiraExceçao.Executar },
                 {"61", ExceçoesPersonalizadas.Executar },
 
+                //API
+
+                {"62", primeiroArquivo.Executar }, 
+
+
+
+
+
 
 
             }); ; ; ;
@@ -116,7 +124,8 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("61");
+            central.Executar("62");
+                
                 
                 
                 
