@@ -112,7 +112,7 @@ namespace PROJETOCSHARP
 
                 {"62", primeiroArquivo.Executar },
                 {"63", Lendados.Executar },
-
+                {"64", ExemploFileInfo.Executar }, 
 
 
 
@@ -124,7 +124,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("63");
+            central.Executar("64");
                 
                 
                 
