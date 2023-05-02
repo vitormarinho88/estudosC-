@@ -110,8 +110,8 @@ namespace PROJETOCSHARP
 
                 //API
 
-                {"62", primeiroArquivo.Executar }, 
-
+                {"62", primeiroArquivo.Executar },
+                {"63", Lendados.Executar },
 
 
 
@@ -124,7 +124,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("62");
+            central.Executar("63");
                 
                 
                 
