@@ -112,8 +112,8 @@ namespace PROJETOCSHARP
 
                 {"62", primeiroArquivo.Executar },
                 {"63", Lendados.Executar },
-                {"64", ExemploFileInfo.Executar }, 
-
+                {"64", ExemploFileInfo.Executar },
+                {"65", diretorios.Executar },
 
 
 
@@ -124,7 +124,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("64");
+            central.Executar("65");
                 
                 
                 
