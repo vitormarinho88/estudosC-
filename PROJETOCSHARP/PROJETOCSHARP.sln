@@ -85,6 +85,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{09FE63B8-BD9
 	ProjectSection(SolutionItems) = preProject
 		Diretorios.cs = Diretorios.cs
 		ExDirectoryInfo.cs = ExDirectoryInfo.cs
+		ExPath.cs = ExPath.cs
 		FileInfo.cs = FileInfo.cs
 		Lendados1.cs = Lendados1.cs
 		PrimeiroArquivo.cs = PrimeiroArquivo.cs
