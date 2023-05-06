@@ -116,7 +116,7 @@ namespace PROJETOCSHARP
                 {"65", diretorios.Executar },
                 {"66", ExemploDirectoryInfo.Executar },
                 {"67", ExemploPath.Executar },
-
+                {"68", ExDateTime.Executar },
 
             }); ; ; ;
 
@@ -124,7 +124,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("67");
+            central.Executar("68");
                 
                 
                 

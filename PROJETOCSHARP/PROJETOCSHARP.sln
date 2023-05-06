@@ -84,12 +84,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{09FE63B8-BD98-4152-A948-29B16148B081}"
 	ProjectSection(SolutionItems) = preProject
 		Diretorios.cs = Diretorios.cs
+		ExDateTime.cs = ExDateTime.cs
 		ExDirectoryInfo.cs = ExDirectoryInfo.cs
 		ExPath.cs = ExPath.cs
 		FileInfo.cs = FileInfo.cs
 		Lendados1.cs = Lendados1.cs
 		PrimeiroArquivo.cs = PrimeiroArquivo.cs
 	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{8DF478F0-FE2F-4692-965A-D2AE91F65EF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
