@@ -123,7 +123,7 @@ namespace PROJETOCSHARP
                 //TOPICOS AVANÇADOS
 
                 {"70", LINQ1.Executar },
-            
+                {"71", LINQ2.Executar }, 
             
             
             
@@ -134,7 +134,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("70");
+            central.Executar("71");
                 
                 
                 
