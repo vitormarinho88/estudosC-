@@ -90,9 +90,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{09FE63B8-BD9
 		FileInfo.cs = FileInfo.cs
 		Lendados1.cs = Lendados1.cs
 		PrimeiroArquivo.cs = PrimeiroArquivo.cs
+		TimeSpan.cs = TimeSpan.cs
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{8DF478F0-FE2F-4692-965A-D2AE91F65EF6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Topicos Avançados", "Topicos Avançados", "{BD1B6D7A-705A-41B2-B9DA-8FD1802EC785}"
+	ProjectSection(SolutionItems) = preProject
+		LINQ1.cs = LINQ1.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

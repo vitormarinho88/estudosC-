@@ -117,14 +117,24 @@ namespace PROJETOCSHARP
                 {"66", ExemploDirectoryInfo.Executar },
                 {"67", ExemploPath.Executar },
                 {"68", ExDateTime.Executar },
+                {"69", ExDateTime.Executar },
 
+
+                //TOPICOS AVANÇADOS
+
+                {"70", LINQ1.Executar },
+            
+            
+            
+            
+            
             }); ; ; ;
 
 
 
 
 
-            central.Executar("68");
+            central.Executar("70");
                 
                 
                 
