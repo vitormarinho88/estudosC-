@@ -95,6 +95,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{09FE63B8-BD9
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Topicos Avançados", "Topicos Avançados", "{BD1B6D7A-705A-41B2-B9DA-8FD1802EC785}"
 	ProjectSection(SolutionItems) = preProject
+		Dynamics.cs = Dynamics.cs
 		LINQ1.cs = LINQ1.cs
 		LINQ2.cs = LINQ2.cs
 		Nullables.cs = Nullables.cs

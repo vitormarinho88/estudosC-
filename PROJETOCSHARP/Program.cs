@@ -125,7 +125,7 @@ namespace PROJETOCSHARP
                 {"70", LINQ1.Executar },
                 {"71", LINQ2.Executar },
                 {"72", Nullables.Executar },
-            
+                {"73", Dynamics.Executar }, 
             
             
             }); ; ; ;
@@ -134,7 +134,7 @@ namespace PROJETOCSHARP
 
 
 
-            central.Executar("61");
+            central.Executar("73");
                 
                 
                 
