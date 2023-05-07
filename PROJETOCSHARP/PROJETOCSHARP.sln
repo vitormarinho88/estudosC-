@@ -101,6 +101,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Topicos Avançados", "Topic
 		Nullables.cs = Nullables.cs
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{28B742A3-7B13-4BEF-9159-92C92135647A}"
+	ProjectSection(SolutionItems) = preProject
+		Genericos.cs = Genericos.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
