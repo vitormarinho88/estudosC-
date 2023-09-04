@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+UISnIwWT3ay//Ud4azVNU0F3WgAhmvFOCd+FjJUqCVoO82kImIoKuGbiNdOl/fhx9M+T1W6U1N/MiLsgH/VA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\Encapsulamento\\Encapsulamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QHLkNU+5BYL/sB/KH81FB5OyayZ+TSYsM7j21nC3zhuISQ2h0Heh4EFtY6zhf9D0S3vyel3sLM+aP2vWPA0nqA==",
+  "dgSpecHash": "uW4UY3kILu+Bt97lOBYHaP9uS4ntWUKx4ZMXdttAe+CqzzvaAbkEXH08EphkrukgvVB3GZ6n67t8w+Dk82iBZw==",
   "success": true,
   "projectFilePath": "C:\\Users\\CLIENTE\\source\\repos\\estudosC-\\PROJETOCSHARP\\PROJETOCSHARP.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\CLIENTE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,26 +1,43 @@
-﻿using CursoCharp.Fundamentos;
+﻿
+using Encapsulamento;
+using PROJETOCSHAP.API;
+using PROJETOCSHAP.ClassesEMetodos;
+using PROJETOCSHAP.Coleções;
+using PROJETOCSHAP.EstruturaDeControle;
+using PROJETOCSHAP.Exceções;
+using PROJETOCSHAP.MetodosEFunçoes;
+using PROJETOCSHAP.TopicosAvançados;
+using PROJETOCSHARP.API;
+using PROJETOCSHARP.ClassesEMetodos;
+using PROJETOCSHARP.Fundamentos;
+
+using PROJETOCSHARP.MetodosEFunçoes;
+using PROJETOCSHARP.O.O;
+using PROJETOCSHARP.TopicosAvançados;
 using System;
-
-
-
-
-
+using Array = PROJETOCSHAP.Coleções.Array;
 
 namespace PROJETOCSHARP
 {
+
+    
+        
+
     class Program
     {
         static void Main(string[] args)
         {
+          
+
             //Console.WriteLine("Hello world");
-            //UsandoContinue.Executar();
+            //UsandoContinue.Executar
 
             var central = new CentralDeExercicios(new Dictionary<string, Action>
             {      
                 //estrutura de controle 
 
                 { "1", EstruturaForEach.Executar},
-                { "2", EstruturaDoWhile.Executar},
+                { "2", EstruturaWhile.Executar},
                 { "3", EstruturaFor.Executar},
                 { "4", EstruturaIF.Executar},
                 { "5", EstruturaIfElse.Executar},
@@ -39,12 +56,15 @@ namespace PROJETOCSHARP
                 {"14", FormantandoNumero.Executar },
                 {"15", Interpolçao.Executar },
                 {"16", LendoDados.Executar },
-                {"17", notaçaoponto.Executar},
+                {"17", Notaçaoponto.Executar},
                 {"18", OperadoresAritimeticos.Executar },
                 {"19", OperadoresAtribuiçao.Executar },
                 {"20", OperadoresLogicos.Executar },
                 {"21", OperadoresUnarios.Executar },
                 {"22", OperadorTernario.Executar },
+                {"76", OperadoresRelacionais.Executar },
+                {"77", Inferencia.Executar },
+
 
 
                 //classes e metodos 
@@ -57,16 +77,15 @@ namespace PROJETOCSHARP
                 {"28", DesafioAtributo.Executar },
                 {"29", Params.Executar },
                 {"30", ParametrosNomeados.Executar },
-                {"31", GetSet.Executar},
                 {"32", Props.Executar },
                 {"33", ReadOnly.Executar },
-                {"34", ExEnum.Executar },
+                {"34", ExemploEnum.Executar },
                 {"35", ExStrutc.Executar },
                 {"36", StructVsClasse.Executar },
                 {"37", ValorVsReferencia.Executar },
                 {"38", RefOut.Executar },
                 {"39", ParametroPadrao.Executar },
-                
+                {"75", GetSet.Executar },
                 
                 //Coleçoes
                 
@@ -85,13 +104,14 @@ namespace PROJETOCSHARP
                 
                 {"48", Herança.Executar },
                 {"49", ConstrutorThis.Executar },
-                {"50", Encapsulamento.Executar },
+                {"78", Dynamics.Executar }, 
+                {"50", AmigoProximo.Executar },
                 {"51", Polimorfismo.Executar },
                 {"52", Abstract.Executar },
                 {"53", Interface.Executar },
                 {"54", Sealed.Executar },
-
-
+                {"79", FilhoReconhecido.Executar },
+                {"80", Subcelebridade.Executar },
 
                 //Metodo e Funçoes
 
@@ -113,7 +133,7 @@ namespace PROJETOCSHARP
                 {"62", primeiroArquivo.Executar },
                 {"63", Lendados.Executar },
                 {"64", ExemploFileInfo.Executar },
-                {"65", diretorios.Executar },
+                {"65", Diretorios.Executar },
                 {"66", ExemploDirectoryInfo.Executar },
                 {"67", ExemploPath.Executar },
                 {"68", ExDateTime.Executar },
@@ -127,19 +147,17 @@ namespace PROJETOCSHARP
                 {"72", Nullables.Executar },
                 {"73", Dynamics.Executar },
                 {"74", Genericos.Executar },
-            
+
             }); ; ; ;
 
 
 
 
 
-            central.Executar("74");
-                
-                
-                
-                
-                
+            central.Executar("72");
+
+
+
             
         }
 
